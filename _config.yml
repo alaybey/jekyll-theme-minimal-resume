@@ -19,4 +19,7 @@ github_username:  alaybey
 gems:
   - jekyll-bootstrap-sass
   
+  bootstrap:
+  assets: true
+  
 exclude: ['package.json', 'src' , 'node_modules']
