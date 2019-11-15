@@ -7,8 +7,8 @@ url: "https://alaybeyi.net" # the base hostname & protocol for your site e.g. ht
 # User settings
 username: Ibrahim Alaybeyi
 user_description: I'm a Freelance Developer, always searching for the next challenge; no task is too scary nor too difficult. <br>
-user_desc: <span class="badge badge-secondary">Train Hard or Go Home ! </span>
-user_descc: <br> Visit my blog here <a href="#" target="_blank">Here</a>
+user_desc: Train Hard or Go Home !
+user_descc: Visit my blog
 user_title: Software Engineer
 email: ibrahim@alaybeyi.net
 # twitter_username: lorem_ipsum
