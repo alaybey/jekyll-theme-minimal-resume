@@ -1,7 +1,20 @@
 <div class="user-details">
 <h1>My Expertise</h1>
-<p>{{ site.user_description }} {{ site.user_desc }} <br></p>
+  <p>{{ site.user_description }} <strong>{{ site.user_desc }}</strong> <br></p>
+  <style>
+    div {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+}
+  .warning {
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
+}
+</style>
+  <div class="warning">
   <p>My blogs are not ready yet </p>
+</div>
+
 </div>
 <div class="user">
   <div class="tech">
