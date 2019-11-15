@@ -16,12 +16,7 @@ github_username:  alaybey
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
-#google-analytics:
- # id: ""
-gems:
-  - jekyll-bootstrap-sass
-  
-bootstrap:
-  assets: true
+google-analytics:
+  id: ""
   
 exclude: ['package.json', 'src' , 'node_modules']
