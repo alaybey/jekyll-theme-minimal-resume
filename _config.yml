@@ -16,5 +16,7 @@ github_username:  alaybey
 # Google-analytics
 #google-analytics:
  # id: ""
-
+gems:
+  - jekyll-bootstrap-sass
+  
 exclude: ['package.json', 'src' , 'node_modules']
